@@ -1,0 +1,24 @@
+1) Audit = Opquest
+
+2) maquettage = charte graphique / wireframe / 
+
+3) Intégration = HTML / CSS / responsive / pas de framework 
+
+4) Test = w3c validator / Performance / UX / Référencement
+
+5) SOUTENANCE. 
+
+
+Durée = 3 semaine ! 
+Durée soutenance min:15min max:20min
+Soutenance = En groupe
+
+_______________________________________________________________________
+
+Objectif : 3 site par groupe / 1 site par Personne !
+
+*Refonte graphique d'un site
+
+
+Doit-on faire toutes les pages intégralement ? 
+Mettre notre code sur github ?
